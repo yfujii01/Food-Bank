@@ -154,12 +154,12 @@
     <enableStreamingApi>true</enableStreamingApi>
     <externalSharingModel>Private</externalSharingModel>
     <label>Delivery Item</label>
-    <plurallabel>Delivery Item</plurallabel>
     <nameField>
-        <displayFormat>{000}</displayFormat>
+        <displayFormat>{0}</displayFormat>
         <label>Delivery Item Name</label>
         <type>AutoNumber</type>
     </nameField>
+    <pluralLabel>Delivery Item</pluralLabel>
     <searchLayouts/>
     <sharingModel>ReadWrite</sharingModel>
     <visibility>Public</visibility>
